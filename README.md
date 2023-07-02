@@ -25,7 +25,7 @@ The project consists of the following files and directories:
 
 ## Features
 1. **Calculate BMI**: Enter your height and weight, and the app will calculate your BMI.
-2. **BMI Categories**: The app categorizes the calculated BMI into "Underweight," "Normal," and "Overweight."
+2. **BMI Categories**: The app categorizes the calculated BMI into "Underweight," "Normal," and "Overweight".
 3. **Interpretation**: The app provides an interpretation of the calculated BMI, giving advice based on the BMI category.
 
 ## Dependencies
