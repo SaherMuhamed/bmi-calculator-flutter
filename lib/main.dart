@@ -9,7 +9,6 @@ void main(){
     DeviceOrientation.portraitDown,
   ]);
   runApp(const BMICalculator());
-
 }
 
 class BMICalculator extends StatelessWidget {
